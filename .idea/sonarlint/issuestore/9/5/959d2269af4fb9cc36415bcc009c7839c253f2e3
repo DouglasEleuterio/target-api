@@ -1,0 +1,7 @@
+
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(œ•¦Çüÿÿÿÿ
+N
+java:S1854%"8Remove this useless assignment to local variable "byId".(±ß«
+?
+java:S1481%")Remove this unused "byId" local variable.(±ß«

@@ -1,0 +1,15 @@
+
+H
+java:S14523"&Remove usage of generic wildcard type.(Î§ñØýÿÿÿÿ8üŸŸÄ»/
+I
+java:S1612=",Replace this lambda with a method reference.(¡©é½8Š ŸÄ»/
+H
+java:S1452H"&Remove usage of generic wildcard type.(¢é©Âúÿÿÿÿ8Œ ŸÄ»/
+|
+java:S1192_"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 3 times.(ÉÿÊ–ùÿÿÿÿ8— ŸÄ»/
+g
+java:S1301c"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ8˜ ŸÄ»/
+G
+java:S5411I"*Use the primitive boolean expression here.(‡Ö…²8™ ŸÄ»/
+G
+java:S5411O"*Use the primitive boolean expression here.(Œ‰ÓŒ8š ŸÄ»/
